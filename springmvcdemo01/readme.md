@@ -258,3 +258,7 @@ ${ msg }
 
 ​	http://localhost:8080/hello.action
 
+### 2.8 源代码
+
+​	源代码github：<https://github.com/greatdistance/springmvc_project_demo/tree/master/springmvcdemo01>
+
